@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<planets>
+<planet name="Планета УМФ">
+<id>50</id>
+<number_of_satellites>100</number_of_satellites>
+</planet>
+<planet name="Планета призрак">
+<id>60</id>
+<number_of_satellites>82</number_of_satellites>
+</planet>
+</planets>
